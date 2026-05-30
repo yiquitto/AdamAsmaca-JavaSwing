@@ -11,7 +11,7 @@ Gelişmiş kullanıcı arayüzü, dinamik sekme yenilemeleri, güvenli şifre do
 ---
 
 ## 👤 Geliştirici Bilgileri
-* **Adı Soyadı:** Yiğit
+* **Adı Soyadı:** Yiğit Bayraktar
 * **Öğrenci Numarası:** 2311012024
 * **Ders:** Programlama II Dersi Ödevi
 * **Ders Sorumlusu:** Dr. Turgay Aydoğan

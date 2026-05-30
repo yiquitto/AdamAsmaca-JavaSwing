@@ -132,7 +132,7 @@ public class AdamAsmaca extends JFrame {
     }
 
     private void pencereKur() {
-        setTitle("Adam Asmaca Oyunu - Yiğit (2311012024)");
+        setTitle("Adam Asmaca Oyunu - Yiğit Bayraktar (2311012024)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(850, 650);
         setLocationRelativeTo(null);
@@ -182,7 +182,7 @@ public class AdamAsmaca extends JFrame {
         JMenuItem hakkindaItem = new JMenuItem("Hakkında / Geliştirici");
         hakkindaItem.addActionListener(e -> {
             JOptionPane.showMessageDialog(this,
-                "Adam Asmaca Oyunu v1.0\n\nGeliştirici: Yiğit\nÖğrenci No: 2311012024\n\nProgramlama II Dersi Ödevi\nDr. Turgay Aydoğan",
+                "Adam Asmaca Oyunu v1.0\n\nGeliştirici: Yiğit Bayraktar\nÖğrenci No: 2311012024\n\nProgramlama II Dersi Ödevi\nDr. Turgay Aydoğan",
                 "Hakkında / Geliştirici", JOptionPane.INFORMATION_MESSAGE);
         });
         yardimMenu.add(hakkindaItem);
