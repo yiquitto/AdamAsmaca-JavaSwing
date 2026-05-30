@@ -117,7 +117,3 @@ javac -encoding UTF-8 AdamAsmaca.java
 java AdamAsmaca
 ```
 
----
-
-## 🎓 Akademik Dürüstlik ve Lisans
-Bu proje eğitim ve değerlendirme amacıyla geliştirilmiştir. Ödev teslim tarihinden sonra açık kaynak olarak paylaşılmıştır. Birebir kopyalanarak teslim edilmesi akademik kurallara aykırıdır.
