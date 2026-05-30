@@ -1,0 +1,7 @@
+*.class
+*.jar
+*.war
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
