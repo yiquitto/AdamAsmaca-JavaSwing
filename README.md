@@ -68,8 +68,6 @@ Projenin arayüz tasarımını ve çalışma mantığını aşağıdaki görsell
 | :---: | :---: |
 | ![Skorlar Sekmesi](screenshots/skorlar.png) | ![Loglar Sekmesi](screenshots/loglar.png) |
 
-> 💡 **Ekran Görüntülerini Ekleme Yönergesi:** Yukarıdaki görsellerin GitHub sayfanızda yüklenebilmesi için, projenizin ana dizininde `screenshots` adında bir klasör oluşturup aldığınız ekran görüntülerini sırasıyla `giris.png`, `giris2.png`, `oyun.png`, `skorlar.png` ve `loglar.png` olarak kaydetmeniz yeterlidir.
-
 ---
 
 ## 📁 Proje Dosya Yapısı
